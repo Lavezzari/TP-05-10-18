@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+main {
+  flex: 1 0 auto;
+}
+
+.showBlock{
+  display: block;
+}
+
+.floatRight{
+  width:100%; padding:0;
+}
+
+.ccDiv{
+  text-align: center;
+}
+
+.creditcard{
+  display: inline-block;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: darkgrey;
+  margin-bottom: 10px;
+}
+
+.My_Footer{
+  position: absolute;
+  bottom:0;
+}
+
+
+.LookFor{
+    border-left: 50%;
+    border-right: 50%;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+

@@ -1,0 +1,21 @@
+.myCard{
+    display: flex;
+    flex-direction: column;
+    padding-top: 5%;
+    justify-content: center;
+    align-items: center;
+}
+.myImg{
+    width: 80px;
+    height: 80px;
+}
+.myImg2{
+    width: 40px;
+    height: 25px;
+}
+
+.alignGit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
